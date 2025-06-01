@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/agency-fb');
+@import url('https://fonts.cdnfonts.com/css/druk-wide-trial');
+@import url('https://fonts.cdnfonts.com/css/druk-trial');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.cdnfonts.com/css/akrobat?styles=16717,28193,28192,28194,28196,28195,28197');
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap");
+@import url("https://db.onlinewebfonts.com/c/1dc8ecd8056a5ea7aa7de1db42b5b639?family=Gilroy-Regular");
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/karstar-free');
+@import url('https://fonts.cdnfonts.com/css/abhaya-libre-2');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap");
+@import url('https://fonts.cdnfonts.com/css/nekst');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/bebas-neue');
+@import url('https://fonts.cdnfonts.com/css/agency-fb');
+@import url('https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url('https://db.onlinewebfonts.com/c/55a62754e6753f5ef3b4776222af2d36?family=Gilroy-BlackItalic');
+@import url("https://db.onlinewebfonts.com/c/5dc6fc5a874b27ff1c287c19dc30bf1b?family=Arame-Mono");
+@import url('https://fonts.cdnfonts.com/css/svn-gilroy?styles=55332,55331');
+
+@font-face {
+    font-family: 'Chat';
+    src: url('https://reich.vip/corleone/v3/web/fonts/chalet.otf');
+}
+
+@font-face {
+    font-family: 'Arame-Mono';
+    src: url('./fonts/Arame-Mono/Arame-Mono.otf');
+}
+
+@font-face {
+    font-family: 'EasyOpenFace';
+    src: url('./fonts/EasyOpenFace/EasyOpenFace.ttf');
+}
+
+@font-face {
+    font-family: 'Valo';
+    src: url('./fonts/Valo/Valo.ttf');
+}
+
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: url('./fonts/Gilroy-Regular/Gilroy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Avant Garde Book BT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avant Garde Book BT'), url('./fonts/Avgardd/AVGARDN_2.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Avant Garde Demi BT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avant Garde Demi BT'), url('./fonts/Avgardd/AVGARDD_2.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Avant Garde Demi Oblique BT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Avant Garde Demi Oblique BT'), url('./fonts/Avgardd/AVGARDDO_2.woff') format('woff');
+}
+
+@font-face {
+    font-family: Gilroy123;
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/Gilroy/Gilroy-Regular.ttf');
+}
+
+@font-face {
+    font-family: Gilroy123;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./fonts/Gilroy/Gilroy-Medium.ttf');
+}
+
+@font-face {
+    font-family: Gilroy123;
+    font-style: normal;
+    font-weight: 600;
+    src: url('./fonts/Gilroy/Gilroy-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: AquireBold-8Ma60;
+    src: url(./fonts/AquireBold/AquireBold-8Ma60.otf);
+}
+
+@font-face {
+    font-family: proximanova;
+    src: url(./fonts/proximanova/proximanova_extrabold.otf);
+}
+
+@font-face {
+    font-family: Evogria;
+    src: url(./fonts/Evogria/Evogria.otf);
+}
+
+:root {
+    --clr-white: #fff;
+    --clr-blue: #ff2323;
+    /* --clr-blue: #2377ff; */
+    --clr-red: #ff2323;
+    --clr-money-green: #ace760;
+    --clr-money-green-icon: #ade76073;
+    --clr-black-money-red: #e76060;
+    --clr-black-money-red-icon: #e7606073;
+    --clr-weapon-border: #cb4f4f;
+    --clr-weapon-box-shadow: #cb4f4f83;
+    --clr-notify-item-success: #ace760;
+    --clr-notify-item-info: #ffa136;
+    --clr-notify-item-error: #ff3636;
+    --clr-notify-item-ooc: #ff2323;
+    --clr-announce-item: #ff2323;
+    --clr-teamchat-item: #ff2323;
+    --clr-speedo-needle: #ff2323;
+    --clr-speedo-point: #ff2323;
+    --clr-speedo-flex-active: #43ff36;
+    --clr-speedo-bg: #36ff47;
+    --clr-speedo-fuel-icon: #36ff47;
+    --clr-rpm-bg: #fff;
+    --clr-progress-inner: #2377ff;
+    --clr-foodhud-food-bg: #cb8b4f;
+    --clr-foodhud-food-box-shadow: #cb8b4f;
+    --clr-foodhud-thirst-bg: #4f83cb;
+    --clr-foodhud-thirst-box-shadow: #4f76cb;
+    --clr-settings-bg: #070707ed;
+    --clr-settings-btn-active: #cb4f4f;
+    --clr-settings-save-btn: #43ff36;
+    --clr-settings-reset-btn: #ff3636;
+    --clr-voice-red: #ff3636;
+    --clr-voice-green: #4eff36;
+    --clr-speedo-bar-gear: #d73232;
+    --clr-speedo-bar-item-active: #43ff36;
+    --clr-speedo-bar-fuel-progress: #20ef41;
+
+    --ff-aquire-bold: 'AquireBold-8Ma60', sans-serif;
+    --ff-header: 'SVN-Gilroy', sans-serif;
+    --ff-druk: 'Druk Trial', sans-serif;
+    --ff-agency: 'Agency FB', sans-serif;
+    --border-radius-frame: 1vh;
+    --border-radius-close: 0.5vh;
+    --color-white: rgba(255, 255, 255, 1);
+    --color-opacity-white: rgba(255, 255, 255, 0.5);
+    --ff-passport: 'Abhaya Libre', serif;
+    --ff-rageui: 'Chat';
+    --ff-akrobat: 'Akrobat', sans-serif;
+    --ff-inter: 'Inter', sans-serif;
+    --ff-special: 'Gilroy-Regular', sans-serif;
+    --ff-rad: 'Rajdhani', sans-serif;
+    --ff-mons: 'Montserrat', sans-serif;
+    --ff-bebas: 'Bebas Neue', sans-serif;
+    --ff-gilroy: 'Gilroy', sans-serif;
+    --ff-valo: 'Valo', Arial, Helvetica, sans-serif;
+    --ff-gangwar: 'Avant Garde Demi Oblique BT', sans-serif;
+    --ff-gangwar-2: 'Avant Garde Book BT', sans-serif;
+    --ff-giloryblack: 'Gilroy-BlackItalic';
+    --ff-bit: 'VCR OSD Mono', sans-serif;
+    --ff-body: 'Roboto', sans-serif;
+    --ff-proximanova: 'proximanova', sans-serif;
+    --ff-evogria: 'Evogria', sans-serif;
+    --clr-pink: #bc1156;
+    --clr-orange: #eb5757;
+    --clr-new-blue: #3266d7;
+    --clr-new-blue-2: #453fbd;
+    --clr-new-orange: #ff2323;
+    --clr-new-2-orange: #fc6e6e;
+    --piv: 0.09259259259259259vh;
+
+    --ff-special: 'Rajdhani', sans-serif;
+
+    --px-in-vh: 0.10460251046025104vh;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}

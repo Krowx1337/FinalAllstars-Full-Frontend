@@ -1,0 +1,32 @@
+<svg width="83" height="83" viewBox="0 0 83 83" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_9_5275)">
+<rect width="83" height="83" fill="url(#paint0_linear_9_5275)" fill-opacity="0.94"/>
+<g opacity="0.55" filter="url(#filter0_f_9_5275)">
+<ellipse cx="-254" cy="-78.5" rx="198" ry="101.5" fill="#03A4FD"/>
+</g>
+<path opacity="0.55" fill-rule="evenodd" clip-rule="evenodd" d="M93.415 -2L104 8.72761L71.17 42L104 75.2724L93.415 86L50 42L93.415 -2Z" fill="url(#paint1_radial_9_5275)" fill-opacity="0.45"/>
+<path opacity="0.55" fill-rule="evenodd" clip-rule="evenodd" d="M105.219 -2L116 8.72761L82.562 42L116 75.2724L105.219 86L61 42L105.219 -2Z" fill="url(#paint2_radial_9_5275)" fill-opacity="0.25"/>
+</g>
+<defs>
+<filter id="filter0_f_9_5275" x="-674.6" y="-402.6" width="841.2" height="648.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="111.3" result="effect1_foregroundBlur_9_5275"/>
+</filter>
+<linearGradient id="paint0_linear_9_5275" x1="0" y1="41.5" x2="83" y2="41.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.22"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="paint1_radial_9_5275" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(79.6462 42) rotate(44.9883) scale(33.9213 49.4971)">
+<stop stop-color="#03A4FD"/>
+<stop offset="1" stop-color="#026297" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint2_radial_9_5275" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(91.1953 42) rotate(44.4627) scale(34.237 49.9489)">
+<stop stop-color="#03A4FD"/>
+<stop offset="1" stop-color="#026297" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_9_5275">
+<rect width="83" height="83" fill="white"/>
+</clipPath>
+</defs>
+</svg>
