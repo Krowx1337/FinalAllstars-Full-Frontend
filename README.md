@@ -1,5 +1,5 @@
 # 🌟 Final Allstars [Final City | Copy-Paste]  
-### Final Allstars Full Frontends 1:1 Final City Copy/Paste - FiveM Frontend UI Designes 
+### Final Allstars Full Frontend 1:1 Final City Copy/Paste - FiveM Frontend UI Designes 
 
 ---
 
