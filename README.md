@@ -26,5 +26,5 @@ Fragen? Vorschläge?
 
 ---
 
-Viel Spaß mit der Base, mein Akh! 💰  
+Viel Spaß mit dem Frontend, mein Akh! 💰  
 - VERGISS NICHT MEIN STERN!!⭐
