@@ -5,7 +5,6 @@
 
 ## 🖥️ Tech Stack  
 🚀 **Programmiersprachen & Frameworks:**  
-![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=6A0DAD)  
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6A0DAD)  
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6A0DAD)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6A0DAD)  
