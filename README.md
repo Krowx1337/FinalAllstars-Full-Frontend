@@ -1,4 +1,4 @@
-# 🌟 Final Allstars [Final City Copy-Paste]  
+# 🌟 Final Allstars [Final City | Copy-Paste]  
 ### Final Allstars Full Frontends 1:1 Final City Copy/Paste - FiveM Frontend UI Designes 
 
 ---
@@ -8,9 +8,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=6A0DAD)  
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=6A0DAD)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6A0DAD)  
-
-🗄 **Datenbank:**  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=6A0DAD)
 
 🛠️ **Tools & Versionierung:**  
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=6A0DAD)
